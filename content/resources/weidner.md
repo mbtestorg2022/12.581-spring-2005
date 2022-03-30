@@ -6,6 +6,7 @@ description: 'This resource provides information about phase transformations: im
   zone and physical properties of minerals and conclusions.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/703a45bcf35b5e7a854cac060b767d3c_weidner.pdf
 file_type: application/pdf
+parent_uid: ae9bea3a-c7a0-6f9c-0937-5e7810fb9c81
 resourcetype: Document
 title: weidner.pdf
 uid: 703a45bc-f35b-5e7a-854c-ac060b767d3c

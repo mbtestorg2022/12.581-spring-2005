@@ -6,6 +6,7 @@ description: This resource provides information about elasticity of forsterite t
   1250 C adiabat compared to seismic velocity profiles for upper mantle.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/48fa32259767b9bb1d1f33f4a54172b8_p_duf_1996_rekhi.pdf
 file_type: application/pdf
+parent_uid: ae9bea3a-c7a0-6f9c-0937-5e7810fb9c81
 resourcetype: Document
 title: p_duf_1996_rekhi.pdf
 uid: 48fa3225-9767-b9bb-1d1f-33f4a54172b8
